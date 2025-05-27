@@ -15,12 +15,14 @@ Import the package into your Dart code:
 ```dart
 import 'package:flutter_shakeable/flutter_shakeable.dart';
 ```
-#### Demo
-![Shakeable Widget Demo](https://user-images.githubusercontent.com/your-username/shakeable-demo.gif)
+
+
 
 ## Example
 #### Modifying the default Flutter project
 - Apply `shakeable` to any 3 widgets, then trigger the shake animation by clicking the button.
+
+![Shakeable Widget Demo](https://github.com/Meterwhite/flutter_shakeable/blob/main/files/example.gif?raw=true)
 
 ```dart
 
